@@ -1,0 +1,29 @@
+.asidebar{
+    background-color: #006D77;
+    font-family: "Inter";
+    width: 195px;
+    min-height: calc(100vh - 77px);
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    padding: 60px 20px
+}
+
+.asidebar a{
+    color: #FFDDD2;
+}
+
+.line{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    font-weight: 400;
+    font-size: 17px;
+    display: flex;
+}
+
+.line a {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+ }

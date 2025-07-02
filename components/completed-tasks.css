@@ -1,0 +1,22 @@
+.completedTasks__block{
+    display: flex;
+    flex-direction: column;
+    gap: 38px;
+    margin-top: 102px;
+    padding-inline: 42px;
+    height: 620px;
+}
+
+.completedtasks{
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+}
+
+.completedTasks__title{
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 20px;
+    color: #006D77;;
+    padding: 5px;
+}

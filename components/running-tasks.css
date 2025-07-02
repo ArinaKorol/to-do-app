@@ -1,0 +1,25 @@
+.runningTasks__block{
+    display: flex;
+    flex-direction: column;
+    gap: 38px;
+    border-right: 4px solid #006D77;
+    border-radius: 2px;
+    margin-block: 102px 92px;
+    padding-inline: 22px 36px;
+}
+
+.runningtasks{
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+}
+
+.runningTasks__title{
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 20px;
+    color: #006D77;
+    border-bottom: 3px solid #006D77;
+    width: 178px;
+    padding: 5px;
+}

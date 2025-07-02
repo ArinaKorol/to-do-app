@@ -1,0 +1,23 @@
+.searchDiv{
+    display: flex;
+    border-radius: 6px;
+    background-color: #FFDDD2;
+    width: 286px;
+    padding: 8px 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.searchInput{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFDDD2;
+    color: #006D77;
+    width: 240px;
+    outline: none
+}
+
+.searchInput::placeholder{
+    color: #006D7766
+}

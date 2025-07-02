@@ -1,0 +1,10 @@
+header{
+    background-color: #83C5BE;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 23px;
+    width: 868px;
+    font-family: "Inter";
+    align-items: center;
+}

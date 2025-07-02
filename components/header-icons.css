@@ -1,0 +1,7 @@
+.headerIcons{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    height: 30px;
+    width: auto;
+}
