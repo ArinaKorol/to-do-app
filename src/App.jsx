@@ -1,9 +1,9 @@
 import './App.css'
 import './index.css'
-import { Header } from '../components/header.component.jsx'
-import { AsideBar } from '../components/asidebar.component.jsx'
-import { RunningTasks } from '../components/running-tasks.component.jsx'
-import { CompletedTasks } from '../components/completed-tasks.component.jsx'
+import { Header } from '../src/components/header.component.jsx'
+import { AsideBar } from '../src/components/asidebar.component.jsx'
+import { RunningTasks } from '../src/components/running-tasks.component.jsx'
+import { CompletedTasks } from '../src/components/completed-tasks.component.jsx'
 
 function App() {
   return (
